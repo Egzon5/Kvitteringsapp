@@ -1,0 +1,104 @@
+[
+  {
+    "dato": "05-03-2015",
+    "belob": 32.0
+  },
+  {
+    "dato": "06-05-2024",
+    "belob": 60.0,
+    "varer": [
+      {
+        "vare": "1 COLA",
+        "pris": 15.0,
+        "kategori": "drikke"
+      },
+      {
+        "vare": "1 PIZZA",
+        "pris": 30.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "1 SNACK",
+        "pris": 15.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "TOTAL",
+        "pris": 60.0,
+        "kategori": "andet"
+      },
+      {
+        "vare": "KONTANT",
+        "pris": 100.0,
+        "kategori": "andet"
+      },
+      {
+        "vare": "RETUR",
+        "pris": 40.0,
+        "kategori": "andet"
+      }
+    ]
+  },
+  {
+    "dato": "06-05-2024",
+    "belob": 60.0,
+    "varer": [
+      {
+        "vare": "1 COLA",
+        "pris": 15.0,
+        "kategori": "drikke"
+      },
+      {
+        "vare": "1 PIZZA",
+        "pris": 30.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "1 SNACK",
+        "pris": 15.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "TOTAL",
+        "pris": 60.0,
+        "kategori": "andet"
+      },
+      {
+        "vare": "KONTANT",
+        "pris": 100.0,
+        "kategori": "andet"
+      },
+      {
+        "vare": "RETUR",
+        "pris": 40.0,
+        "kategori": "andet"
+      }
+    ]
+  },
+  {
+    "dato": "04-06-2024",
+    "belob": 67.0,
+    "varer": [
+      {
+        "vare": "COLA",
+        "pris": 12.0,
+        "kategori": "drikke"
+      },
+      {
+        "vare": "PIZZA",
+        "pris": 35.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "SNACK",
+        "pris": 20.0,
+        "kategori": "mad"
+      },
+      {
+        "vare": "TOTAL",
+        "pris": 67.0,
+        "kategori": "andet"
+      }
+    ]
+  }
+]
